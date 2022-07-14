@@ -1,3 +1,3 @@
 # bootstrap Homework - 3
 
-## [Patika.dev:](https://www.patika.dev/ahmetloca)
+## [Patika.dev:Ahmet Loca](https://app.patika.dev/ahmetloca)
